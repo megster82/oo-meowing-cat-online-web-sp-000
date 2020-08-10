@@ -4,3 +4,4 @@ class Cat
 end
 
 maru.meow = "meow!"
+maru.meow
